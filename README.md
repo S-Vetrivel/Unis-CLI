@@ -101,3 +101,6 @@ Team: SRM IST
 Project ID: SIH25184
 Status: Prototype Development Phase
 Focus: National-Grade Secure Communication System for Personnels
+
+For Server repo checkout: https://github.com/S-Vetrivel/Unis-server
+
